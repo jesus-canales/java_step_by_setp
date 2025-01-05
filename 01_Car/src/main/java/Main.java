@@ -6,5 +6,6 @@ public class Main {
         // Crear un nuevo objeto de la clase Auto llamado Toyota
         Auto toyota = new Auto();
         toyota.velocidad();
+
     }
 }
