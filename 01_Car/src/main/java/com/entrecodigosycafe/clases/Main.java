@@ -1,3 +1,5 @@
+package com.entrecodigosycafe.clases;
+
 // Clase Main
 public class Main {
 

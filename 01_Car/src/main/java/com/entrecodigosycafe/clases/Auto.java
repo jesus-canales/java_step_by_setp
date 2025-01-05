@@ -1,3 +1,5 @@
+package com.entrecodigosycafe.clases;
+
 // Clase auto
 public class Auto {
     // Atributos
