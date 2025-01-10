@@ -13,5 +13,8 @@ public class Main {
         nuevaMoto.arrancar();
         nuevaMoto.detener();
 
+        System.out.println("Array");
+        ListaEdades.ejecutar();
+
     }
 }
