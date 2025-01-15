@@ -8,5 +8,21 @@ public class OperadoresRelacionales {
 
         // Igual a
         System.out.println(" ¿a == b? " + (valorA == valorB));
+
+        // Diferente de
+        System.out.println(" ¿a != b? " + (valorA != valorB));
+
+        // Mayor que
+        System.out.println(" ¿a > b? " + (valorA > valorB));
+
+        // Menor que
+        System.out.println(" ¿a < b? " + (valorA < valorB));
+
+        // Mayor o igual que
+        System.out.println(" ¿a >= b? " + (valorA >= valorB));
+
+        // Menor o igual que
+        System.out.println(" ¿a <= b? " + (valorA <= valorB));
+
     }
 }
