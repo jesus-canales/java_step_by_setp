@@ -10,6 +10,7 @@ public class Main {
         System.out.println("=== Operadores Relacionales ===");
         OperadoresRelacionales.ejecutar();
 
-
+        System.out.println("=== Operadores Lógicos ===");
+        OperadoresLogicos.ejecutar();
     }
 }
