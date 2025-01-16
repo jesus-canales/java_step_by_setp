@@ -8,5 +8,8 @@ public class Main {
 
         System.out.println("=== Ejemplo For Suma ===");
         ForSuma.ejecutar();
+
+        System.out.println("=== Ejemplo For Array ===");
+        ForArray.ejecutar();
     }
 }
