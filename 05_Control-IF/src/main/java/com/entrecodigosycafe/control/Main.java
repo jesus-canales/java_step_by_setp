@@ -8,5 +8,8 @@ public class Main {
 
         System.out.println("=== Ejemplo de If con Else ===");
         IfElse.ejecutar();
+
+        System.out.println("=== Ejemplo de If Else If ===");
+        IfElseIf.ejecutar();
     }
 }
