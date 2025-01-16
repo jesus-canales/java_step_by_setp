@@ -5,5 +5,8 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("=== Ejemplo If simple ===");
         IfSimple.ejecutar();
+
+        System.out.println("=== Ejemplo de If con Else ===");
+        IfElse.ejecutar();
     }
 }
