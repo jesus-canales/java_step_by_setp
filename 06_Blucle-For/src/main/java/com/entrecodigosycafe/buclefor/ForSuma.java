@@ -3,7 +3,7 @@ package com.entrecodigosycafe.buclefor;
 public class ForSuma {
 
     public static void ejecutar () {
-        int n = 10;
+        int n = 5;
         int suma = 0;
 
         System.out.println("Calcular la suma de los primeros " + n + " números:");
