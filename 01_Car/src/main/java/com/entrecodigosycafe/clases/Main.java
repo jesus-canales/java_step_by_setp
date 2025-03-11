@@ -1,6 +1,6 @@
 package com.entrecodigosycafe.clases;
 
-// Clase Main
+// Clase Main - Clase Principal
 public class Main {
 
     // Definición de la clase Main

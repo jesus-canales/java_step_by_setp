@@ -2,12 +2,12 @@ package com.entrecodigosycafe.clases;
 
 // Clase auto
 public class Auto {
-    // Atributos
+    // Atributos o Variables
     String color;
     String marca;
 
     // Método void que imprime un mensaje en consola
     void velocidad() {
-        System.out.println("velocidad del auto.");
+        System.out.println("Soy la velocidad del auto.");
     }
 }
